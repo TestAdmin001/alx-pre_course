@@ -1,2 +1,1 @@
-My readme commit is getting alot better
-to be updated
+My README is beign updated after QA review
